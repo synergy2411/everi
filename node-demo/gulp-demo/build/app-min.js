@@ -1,0 +1,1 @@
+let addition=(d,i)=>d+i;
