@@ -31,3 +31,4 @@ exports.default = defaultTask;
 exports.seriesTasks = series(transpile, build)
 exports.parallelTasks = parallel(build, css)
 
+// synergy2411@outlook.com
