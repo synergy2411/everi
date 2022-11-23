@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "karma": "^4.2.0"
+    "karma": "^6.4.1"
   }
 }
